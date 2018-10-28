@@ -1,8 +1,8 @@
 --- 
 layout: newz 
 title: GradPics by.KG 
-picA1: /portfolio/drea/A3.jpg
-picA2: /portfolio/drea/A4.jpg
+picA1: /portfolio/drea/Drea2.jpg
+picA2: /portfolio/drea/Drea4.jpg
 dir: /portfolio/drea
 ---
 <img height="350" width="350" src="/portfolio/drea/Drea2.jpg" />
