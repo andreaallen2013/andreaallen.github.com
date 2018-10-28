@@ -8,4 +8,3 @@ dir: /portfolio/travel
 <img height="350" width="350" src="/portfolio/travel/travel30.jpg" />
 <img height="350" width="350" src="/portfolio/travel/travel35.jpg" />
 <img height="350" width="350" src="/portfolio/travel/travel38.jpg" />
-<img height="350" width="350" src="/portfolio/travel/travel51.jpg" />
